@@ -1,0 +1,173 @@
+[
+  {
+    "level" : -4,
+    "namn" : "Skanstull",
+    "linje" : [
+      17,
+      18,
+      19
+    ],
+    "uppgangar" : [
+      {
+        "namn" : "Götgatan/Ringvägen",
+        "placering" : "ned"
+      },
+      {
+        "namn" : "Götgatan/Helgagatan",
+        "placering" : "upp"
+      }
+    ]
+  },
+  {
+    "level" : -3,
+    "namn" : "Medborgarplatsen",
+    "linje" : [
+      17,
+      18,
+      19
+    ],
+    "uppgangar" : [
+      {
+        "namn" : "Folkungagatan/Götgatan",
+        "placering" : "ned"
+      },
+      {
+        "namn" : "Medborgarplatsen/Björns Trädgård",
+        "placering" : "upp"
+      }
+    ]
+  },
+  {
+    "level" : -2,
+    "namn" : "Slussen",
+    "linje" : [
+      17,
+      18,
+      19
+    ],
+    "uppgangar" : [
+      {
+        "namn" : "Södermalms Torg / Bussar",
+        "placering" : "upp"
+      },
+      {
+        "namn" : "Södermalms Torg",
+        "placering" : "Mitten"
+      },
+      {
+        "namn" : "Götgatsbacken",
+        "placering" : "ned"
+      }
+    ]
+  },
+  {
+    "level" : -1,
+    "namn" : "Gamla Stan",
+    "linje" : [
+      17,
+      18,
+      19
+    ],
+    "uppgangar" : [
+      {
+        "namn" : "Mälartorget",
+        "placering" : "mitten"
+      }
+    ]
+  },
+  {
+    "level" : 0,
+    "namn" : "T-Centralen",
+    "linje" : [
+      17,
+      18,
+      19
+    ],
+    "uppgangar" : [
+      {
+        "namn" : "Sergels Torg",
+        "placering" : "ned"
+      },
+      {
+        "namn" : "Centralstationen",
+        "placering" : "upp"
+      }
+    ]
+  },
+  {
+    "level" : 1,
+    "namn" : "Hötorget",
+    "linje" : [
+      17,
+      18,
+      19
+    ],
+    "uppgangar" : [
+      {
+        "namn" : "Sergels Torg",
+        "placering" : "ned"
+      },
+      {
+        "namn" : "Centralstationen",
+        "placering" : "upp"
+      }
+    ]
+  },
+  {
+    "level" : 2,
+    "namn" : "Rådmansgatan",
+    "linje" : [
+      17,
+      18,
+      19
+    ],
+    "uppgangar" : [
+      {
+        "namn" : "Sergels Torg",
+        "placering" : "ned"
+      },
+      {
+        "namn" : "Centralstationen",
+        "placering" : "upp"
+      }
+    ]
+  },
+  {
+    "level" : 3,
+    "namn" : "Odenplan",
+    "linje" : [
+      17,
+      18,
+      19
+    ],
+    "uppgangar" : [
+      {
+        "namn" : "Sergels Torg",
+        "placering" : "ned"
+      },
+      {
+        "namn" : "Centralstationen",
+        "placering" : "upp"
+      }
+    ]
+  },
+  {
+    "level" : 4,
+    "namn" : "St: Eriksplan",
+    "linje" : [
+      17,
+      18,
+      19
+    ],
+    "uppgangar" : [
+      {
+        "namn" : "Sergels Torg",
+        "placering" : "ned"
+      },
+      {
+        "namn" : "Centralstationen",
+        "placering" : "upp"
+      }
+    ]
+  }
+]

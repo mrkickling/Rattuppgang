@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rätt uppgång</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="tag_button_send">Jag vill veta var jag ska stå i tåget</string>
+    <string name="uppgang_button_send">Jag vill veta vilken uppgång jag ska ta</string>
+    <string name="from">Åk från</string>
+    <string name="to">Åk till</string>
+    <string name="rakna_ut">Räkna ut</string>
+    <string name="resultat">Resultat:</string>
+    <string name="info_om_appen">Appen är skapad av Joakim Loxdal och används för att se vilken
+        tunnelbaneuppgång man ska ta och var i tågets färdriktning den uppgången ligger.
+        Datan har jag samlat via Eniro, bidragare som listas nedan och genom att åka runt i tunnelbanan.
+        Appen använder sig av Google Maps API:er. Kontakta mig på support@joakimloxdal.se. </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
